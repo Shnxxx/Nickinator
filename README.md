@@ -1,0 +1,2 @@
+# Nickinator
+Simple nickname generator.
